@@ -1,4 +1,4 @@
-# Alarm-Arduino
+# Alarm Arduino
 ### Arduino alarm software
 
 This software is dedicated to alarm system created od Arduino microcontroller.
