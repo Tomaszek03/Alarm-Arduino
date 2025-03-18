@@ -66,6 +66,6 @@ void loop()
     zawyj(10);
     Serial.println(zmierz_odl());
     delay(500);
-    if(digitalRead(6)==LOW) break;;
+    if(digitalRead(6)==LOW) break;
   }
 }
